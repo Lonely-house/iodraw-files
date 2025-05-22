@@ -74,12 +74,12 @@
             <mxRectangle width="60" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BFyh43ghpKQ1mCsq2MmT-20" value="Value 5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BFyh43ghpKQ1mCsq2MmT-18">
+        <mxCell id="BFyh43ghpKQ1mCsq2MmT-20" value="1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BFyh43ghpKQ1mCsq2MmT-18">
           <mxGeometry x="60" width="60" height="46" as="geometry">
             <mxRectangle width="60" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BFyh43ghpKQ1mCsq2MmT-21" value="Value 6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BFyh43ghpKQ1mCsq2MmT-18">
+        <mxCell id="BFyh43ghpKQ1mCsq2MmT-21" value="0。02" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BFyh43ghpKQ1mCsq2MmT-18">
           <mxGeometry x="120" width="60" height="46" as="geometry">
             <mxRectangle width="60" height="46" as="alternateBounds" />
           </mxGeometry>
