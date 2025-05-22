@@ -154,9 +154,9 @@
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BFyh43ghpKQ1mCsq2MmT-57" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BFyh43ghpKQ1mCsq2MmT-55">
+        <mxCell id="BFyh43ghpKQ1mCsq2MmT-57" value="bit2int" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BFyh43ghpKQ1mCsq2MmT-55">
           <mxGeometry x="-0.0835" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BFyh43ghpKQ1mCsq2MmT-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Bit Diffusion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
