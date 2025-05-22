@@ -134,8 +134,11 @@
             <mxRectangle width="51" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BFyh43ghpKQ1mCsq2MmT-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BFyh43ghpKQ1mCsq2MmT-42" target="BFyh43ghpKQ1mCsq2MmT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BFyh43ghpKQ1mCsq2MmT-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="85" width="20" height="120" as="geometry" />
+          <mxGeometry x="460" y="85" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BFyh43ghpKQ1mCsq2MmT-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
