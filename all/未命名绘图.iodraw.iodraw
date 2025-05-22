@@ -134,8 +134,8 @@
             <mxRectangle width="51" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BFyh43ghpKQ1mCsq2MmT-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="20" width="20" height="120" as="geometry" />
+        <mxCell id="BFyh43ghpKQ1mCsq2MmT-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="85" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
